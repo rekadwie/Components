@@ -14,8 +14,7 @@ Forms, Tables, slideshow, menu
 </ul>
 
 <ul> Slideshow :
-<li>Fade</li>
-<li></li>
+<li>Responsive Slideshow</li>
 </ul>
 
 <ul> Menu
