@@ -17,6 +17,6 @@ Forms, Tables, slideshow, menu
 <li>Responsive Slideshow</li>
 </ul>
 
-<ul> Menu
+<ul> Menu :
 <li>Menu Design</li>
 </ul>
